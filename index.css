@@ -1,0 +1,59 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    height: 150vh;
+
+}
+#logosize{
+    height: 15%;
+    width: 15%;
+}
+.container{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(https://ceconline.edu/wp-content/uploads/2022/07/1-pic1-01-scaled.jpeg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+.header{
+    background-image: url()    
+    
+}
+.logo{
+     padding-left: 45%;
+    padding-top: 2%;
+}
+.collegename{
+    
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    font-size: 22px;
+    
+}
+.content{
+    padding-left: 20%;
+    padding-right: 20%;
+    color: aliceblue;
+    font-size: large;
+}
+
+ul li{   
+    line-height: 30px;
+}
+.form{
+    
+    
+    background-color: aliceblue;
+    width: fit-content;
+    font-size: 110%;
+    margin-left: 40%;
+    
+}
+
+
+

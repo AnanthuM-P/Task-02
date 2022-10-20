@@ -1,0 +1,30 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    
+}
+body{
+    height: 100vh;
+}
+.form{
+    padding-top: 50px;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(https://ceconline.edu/wp-content/uploads/2022/07/1-pic1-01-scaled.jpeg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    color: aliceblue;
+}
+.align{
+    display: block;
+    border: 10px;
+    border-radius: 8px;
+    padding: 30px;
+    background-color: rgba(90, 101, 110, 0.466);
+    width: 50%;
+    backdrop-filter: blur(15px); 
+    font-weight: 100;
+    letter-spacing: 1px;
+}
